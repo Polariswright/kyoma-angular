@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap');
+nav{
+    font-family:'Carrois Gothic', sans-serif;
+    justify-self:center;
+    margin-bottom: 2rem;
+}
